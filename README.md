@@ -22,6 +22,7 @@ Win a prize at the PayPal AI Hackathon (global online hackathon, $69,750 total p
 - Video shows the project functioning end-to-end on the device it was built for
 
 ## Constraints
+- Open Chris-held item: the Devpost entry questionnaire answers are still needed from Chris
 - Use the free PayPal sandbox — no real money moves
 - No third-party trademarks or copyrighted music/material in the demo video without permission
 - Entry may be individual or team; all work must represent genuine effort during the hackathon window
